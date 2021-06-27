@@ -1,5 +1,6 @@
 # Tp-memotest
-Un memotest con tematica de quimica con algunas modificaciones para jugar desde la terminal.
+Un memotest con tematica de quimica con algunas modificaciones.
+Se juega desde la terminal.
 
 ## Reglas
 Cada jugador tiene un tablero que tiene N fichas distribuidas en M filas y M columnas de las cuales se desconoce su contenido hasta darlas vuelta, pero siempre se sabe que hay 2 fichas de cada tipo. Los jugadores deberán encontrar los pares de fichas idénticos en su tablero. En caso de no encontrarlos las fichas volverán a su posición oculta original. En caso de acertar y encontrar el jugador puede volver a jugar en el mismo turno, intentando ubicar otro par. La partida termina una vez que todos los pares de un tablero son descubiertos y el ganador será el jugador que lo haga primero. 
@@ -32,4 +33,4 @@ Como último detalle, el juego permite guardar (temporalmente, es decir durante 
 ## Futuras versiones
 Comming soon...
 * Al elejir una ficha se le dirá al jugador el nombre del elemento elegido.
-* Se podran guardar y eidtar los scores en un archivo .css o .txt para que no se eliminen al cerrar el juego.
+* Se podran guardar y editar los scores en un archivo .csv o .txt para que no se eliminen al cerrar el juego.
